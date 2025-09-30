@@ -20,7 +20,7 @@
 <p align="left">
   <span>- <b>Languages:</b> Java, JavaScript</span><br/>
   <span>- <b>Back-end:</b> Spring Boot, Apache OFBiz, Moqui</span><br/>
-  <span>- <b>Front-end:</b> React, jQuery</span><br/>
+  <span>- <b>Front-end:</b> ReactJS, jQuery</span><br/>
   <span>- <b>Databases:</b> PostgreSQL, MySQL, Elasticsearch, ClickHouse, Redis</span><br/>
-  <span>- <b>Tools:</b> Docker, SonarQube, Checkstyle, Git</span><br/>
+  <span>- <b>Tools:</b> Drools, Pentaho Data Integration, Docker, SonarQube, Checkstyle, Git</span><br/>
 </p>
